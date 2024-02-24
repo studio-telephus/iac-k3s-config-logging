@@ -1,6 +1,7 @@
 locals {
   bw_k3s_provider_config_id = {
-    dev = "44ce16d0-c7cd-43fa-ba7a-b0f800b6a7c4"
+    snb = "1721d632-8ef6-4398-9fd5-b12000dfed36"
+    dev = "b7c5eb11-f31e-48b6-b977-b12000dfea02"
   }
 }
 
